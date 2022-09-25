@@ -1,7 +1,7 @@
-**System Design and Analysis --- Country Travel Store --- Monticello, MN**
+**System Design and Analysis --- Country Travel Store, Inc**
 
-  Executed four stages of system design and analysis, including planning, analysis, design, and implementation to generate activity and domain class diagrams.
+Executed four stages of system design and analysis, including planning, analysis, design, and implementation to generate activity and domain class diagrams (Java & SQL).
 
-•	Provided a comprehensive system design and analysis for employees to switch paper records to digital interfaces.
+•	Enabled a comprehensive system design and analysis for employees to switch paper records to digital interfaces. 
 
-•	Utilized Microsoft SQL Server to replace paper filing system. 
+•	Improved the usability of the system and increased productivity and customer satisfaction in different departments. 
